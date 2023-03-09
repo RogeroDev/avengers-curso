@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Dormamu
-* Magneto
+* Capitan America
