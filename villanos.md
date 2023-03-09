@@ -1,4 +1,5 @@
 # Villanos
 
-Dr. Doom
-Dormamu
+* Dr. Doom
+* Dormamu
+* Magneto
